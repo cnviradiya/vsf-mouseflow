@@ -1,5 +1,5 @@
 # Vue Storefront Mouseflow module
-[Mouseflow](https://www.mouseflow.com) integration for [vue-storefront](https://github.com/DivanteLtd/vue-storefront), by [Chirag Viradiya](https://www.develodesign.co.uk).
+[Mouseflow](https://www.mouseflow.com) integration for [vue-storefront](https://github.com/DivanteLtd/vue-storefront), by [Chirag Viradiya](https://www.linkedin.com/in/chirag-viradiya/).
 <br />Mouseflow account required (free trial is available)
 <br /><br />
 Intergration with the Mouseflow you can easily track your website for your Vue Storefront, this Mouseflow module is configured to track your custom actions with your website, this allows you to accurately help you to judge marketing way, knowing which page got more hit.
